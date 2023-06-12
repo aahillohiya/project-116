@@ -1,0 +1,9 @@
+canvas{
+    animation-name: AAHILLOHIYA;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes AAHILLOHIYA{
+    from {box-shadow : 2px 1px 310px green };
+    to {box-shadow : 1px 2px 310px goldenrod };
+}
